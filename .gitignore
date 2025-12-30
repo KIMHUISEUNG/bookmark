@@ -1,0 +1,19 @@
+# Next.js
+my-app/.next/
+my-app/out/
+my-app/node_modules/
+
+# env
+my-app/.env
+my-app/.env.*.local
+
+# logs
+my-app/npm-debug.log*
+my-app/yarn-debug.log*
+my-app/yarn-error.log*
+my-app/pnpm-debug.log*
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
